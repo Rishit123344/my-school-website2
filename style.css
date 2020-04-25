@@ -1,0 +1,22 @@
+h1{
+    color:goldenrod;
+}
+
+.header{
+    background-color:grey;
+    display:flex;
+    justify-content:space-evenly;
+}
+.grid{
+    display:flex ;
+    flex-wrap:wrap ;
+    justify-content:space-evenly ;
+}
+.footer{
+    display:flex ;
+    justify-content:flex-end ;
+}
+p,h2{
+    text-align:left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
